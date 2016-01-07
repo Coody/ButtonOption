@@ -3,7 +3,7 @@
 //  ButtonOptionExample
 //
 //  Created by Coody on 2016/1/7.
-//  Copyright © 2016年 Coody. All rights reserved.
+//  It is available under the MIT license.
 //
 
 #import "AppDelegate.h"
